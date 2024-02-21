@@ -14,7 +14,7 @@ The API connects the mobile app, the Firebase, and the DL model. Once the user c
 ![Flow Diagram](https://github.com/Mithara99/Cardio-X/assets/109811098/dfadbaf5-93fe-4d16-901d-c099b32b4eb9)
 
 Watch the video!
-![Cardio-X Video](https://drive.google.com/file/d/1m29li0GRjAQ2ru8W5z3auoMRo2MzwtGq/view?usp=sharing)
+[Cardio-X Video](https://drive.google.com/file/d/1m29li0GRjAQ2ru8W5z3auoMRo2MzwtGq/view?usp=sharing)
 
 
 
